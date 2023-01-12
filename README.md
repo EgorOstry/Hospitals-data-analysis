@@ -1,2 +1,2 @@
 # Hospitals-data-analysis
-Demonstration data analysis using pandas, numpy and plotly.
+Demonstration jupyter notebook data analysis using pandas, numpy and plotly.
